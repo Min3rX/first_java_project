@@ -27,5 +27,5 @@ This method is the entry point of every Java application.
 
 # how to print to the console
 
-you can print any String to the console using `System.out.print(String s)` or .println(..) will add a new line.
+you can print any String to the console using `System.out.print(String s)` or `.println(..)` will add a new line.
 
